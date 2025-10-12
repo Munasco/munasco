@@ -36,7 +36,7 @@
 - best grad & scholar-athlete — fastest high-school sprinter in the country.  
 - represented **nigeria** at the **international mathematical olympiad (IMO)**, bronze at the **pan-african mathematical olympiad (PAMO)**, selected for the **international olympiad in informatics (IOI)**.  
 - won **cowbellpedia** twice (5-second mental-math national championship).  
-- scaled a math-olympiad tutoring program → 5 teachers / 30 students out of 30,000 applicants.  
+- scaled a math-olympiad tutoring program during senior year → 5 teachers (taught 30 students out of 30,000 applicants.  
 
 ---
 
