@@ -25,7 +25,7 @@
 ---
 
 **18 – 20 yrs old**  
-- full-ride @ **uoft** for **space engineering** — flight control, distributed robotics & ai for aerospace.  
+- full-ride @ **uoft** for **space engineering** — flight control, distributed robotics & ai minor.  
 - was locked in — 99s for every cs course; quantum & dynamics weren’t chill though.  
 - built flight sims, control algorithms & early swarm coordination logic.  
 
