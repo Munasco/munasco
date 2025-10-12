@@ -19,7 +19,7 @@
 - software engineering intern @ **microsoft**, **linkedin**, **doordash**, **brex**, **squarepoint capital**, **coursera**, **block**.  
 - worked across distributed systems, infra & ml tooling.  
 - won **4 / 8 hackathons** @ uoft, scored 99s in cs courses.  
-- somewhere in there, **school stopped being chill😂** — maybe too many late nights building side projects instead of solving tensors.  
+- somewhere in there, **school stopped being chill 😂** — maybe too many late nights building side projects instead of solving tensors.  
 - led a **10-person avionics team** building fixed-wing aircraft for **sae** — finished 2nd overall.  
 - built ML models for **unearthed’s explore sa** competition — apparently they actually found gold.  
 
