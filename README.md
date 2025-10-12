@@ -8,7 +8,8 @@
 
 **23 – 24 yrs old**  
 - built **[livewalk](https://thesafenumbers.com)**, safety startup using autonomous drones & proximity networks for real-time emergency response (**yc w24 interview**).  
-- paused when cofounder left for postgrad school.  
+- paused when cofounder(CEO) left for postgrad school.
+- 2x global [patents](https://patents.justia.com/inventor/munachi-jachike-ernest-eze) on distributed systems for rapid emergency response
 - shipped **inclusivio**, web-accessibility engine past **$100k revenue**, automating compliance with ai.  
 - built **african-native tools** for llms & voice models; contributed to **spaCy** + other open projects.  
 
