@@ -18,7 +18,7 @@
 - software engineering intern @ **microsoft**, **linkedin**, **doordash**, **brex**, **squarepoint capital**, **coursera**, **block**.  
 - worked across distributed systems, infra & ml tooling.  
 - won **4 / 8 hackathons** @ uoft, scored 99s in cs courses.  
-- somewhere in there, **physics stopped being chill** — maybe too many late nights building side projects instead of solving tensors.  
+- somewhere in there, **school stopped being chill😂** — maybe too many late nights building side projects instead of solving tensors.  
 - led a **10-person avionics team** building fixed-wing aircraft for **sae** — finished 2nd overall.  
 - built ML models for **unearthed’s explore sa** competition — apparently they actually found gold.  
 
@@ -33,13 +33,13 @@
 
 **14 – 18 yrs old**  
 - best grad & scholar-athlete — fastest high-school sprinter in the country.  
-- represented **nigeria** at the **international mathematical olympiad (imo)**, bronze at the **pan-african mathematical olympiad (pamo)**, selected for the **international olympiad in informatics (ioi)**.  
+- represented **nigeria** at the **international mathematical olympiad (IMO)**, bronze at the **pan-african mathematical olympiad (PAMO)**, selected for the **international olympiad in informatics (IOI)**.  
 - won **cowbellpedia** twice — 5-second mental-math national championship.  
 - scaled a math-olympiad tutoring program → 5 teachers / 30 students out of 30,000 applicants.  
 
 ---
 
 **misc**  
-- trained polymath — math, aerospace & machine intelligence.  
+- two things are constant in life: death, taxes and me nerding out about math and performance.  
 - most projects live in private accounts for now; open-source drops soon → expect green squares.  
 - more at [linkedin.com/in/munachi](https://linkedin.com/in/munachi)
