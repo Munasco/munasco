@@ -7,7 +7,7 @@
 ---
 
 **23 – 24 yrs old**  
-- built **livewalk**, safety startup using autonomous drones & proximity networks for real-time emergency response (**yc w24 interview**).  
+- built **[livewalk](https://thesafenumbers.com)**, safety startup using autonomous drones & proximity networks for real-time emergency response (**yc w24 interview**).  
 - paused when cofounder left for postgrad school.  
 - shipped **inclusivio**, web-accessibility engine past **$100k revenue**, automating compliance with ai.  
 - built **african-native tools** for llms & voice models; contributed to **spaCy** + other open projects.  
