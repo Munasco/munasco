@@ -1,5 +1,7 @@
 ### timeline highlights  
 
+- 
+
 **24 yrs – now**  
 - founder at **tennant** — building **hipaa-compliant backends, dev tools & one-click deploy infra** for data-sensitive startups & enterprises.  
 - ship secure apps on your own infra or ours — audit trails, encryption, zero-trust baked in.  
