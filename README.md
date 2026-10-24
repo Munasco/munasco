@@ -3,8 +3,8 @@
 ---
 
 **24 yrs – now**  
-- cofounder @ Terox Systems - FDE partner for PE firms 
-- ship secure apps on your own infra or ours — audit trails, encryption, zero-trust baked in.  
+- ceo ekogenie @ - human-like conversational agents for African languages 
+- sikrets: all in one platform for security in agents era
 
 
 **23 – 24 yrs old**  
